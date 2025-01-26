@@ -156,3 +156,11 @@ li img{
     font-family: 'Roboto';
     height: 40px;
 }
+
+.footer {
+    padding: 40px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
