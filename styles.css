@@ -100,3 +100,26 @@ li img{
     color: #6e6f70;
     font-size: 18px;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 250px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.thor {
+    font-size: 24px;
+    font-weight: 500;
+    align-self: flex-end;
+}
