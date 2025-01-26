@@ -35,7 +35,7 @@ a, .hero-secondary {
 .hero {
     display: flex;
     gap: 20px;
-    padding: 100px 350px;
+    padding: 100px 20%;
 }
 
 .hero-left {
