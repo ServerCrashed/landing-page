@@ -66,3 +66,37 @@ button {
     width: 50%;
     background-color: rgb(165, 165, 164);
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+li img{
+    border: 3px solid #3882f6;
+    width: 130px;
+    height: 130px;
+    border-radius: 12px;
+}
+
+.info-imgs ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+
+.info-imgs li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    color: #6e6f70;
+    font-size: 18px;
+}
